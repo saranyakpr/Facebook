@@ -1,0 +1,21 @@
+.container{
+	width:90%;
+	margin:auto;
+}
+.formIn{
+	display:flex;
+}
+.detail input{
+	display:block;
+}
+.formOut{
+	background-color:#F0F2F5;
+	height:97.5vh;
+}
+.face{
+	width:50%;
+	margin-top:10rem;
+}
+.face1{
+	width:50%
+}
